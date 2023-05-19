@@ -1,1 +1,2 @@
 # Randomized-Algorithms-for-Motif-Detection
+Randomized-Motif Search is an algorithm which is used to find the longer and efficient motif within a sequence. RandomizedMotifSearch are slightly less conserved than the motifs returned by MedianString, RandomizedMotifSearch has the advantage of being able to find longer motifs (since MedianString becomes too slow for longer motifs). In the epilogue, we will see that this feature is important in practice. We use the concepts of Greedy motif search, Profile-motif pseodocounts in oder to generate Randomized motif Search algorithm.
